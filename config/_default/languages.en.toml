@@ -1,0 +1,76 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Seanctum"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Computer Vision, ML, and Code"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Shan Wu"
+  email = "Shan.Wu.1995@gmail.com"
+  image = "img/avatar.jpg"
+  imageQuality = 96
+  headline = "Computer Vision, ML, and Code"
+  bio = "Ph.D. Candidate and Junior Lecturer in「Computer Science @ University of Tartu"
+  links = [
+    { email = "mailto:Shan.Wu.1995@gmail.com" },
+    { link = "https://seanctum.space/" },
+    { google = "https://scholar.google.com/citations?user=e5Rx4K0AAAAJ" },
+    { orcid = "https://orcid.org/0000-0002-8062-0853" },
+    { github = "https://github.com/simonwu53" },
+    { linkedin = "https://linkedin.com/in/shanwu533" },
+    { telegram = "https://t.me/sean533" },
+    { threads = "https://www.threads.net/@im533_" },
+    { instagram = "https://instagram.com/im533_" },
+    { mastodon = "https://ech0.seanctum.space/users/Sean" },
+    { discord = "https://discord.gg/gsvR5mX3" },
+    { twitch = "https://twitch.tv/533_" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { bluesky = "https://bsky.app/profile/username" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { itch-io = "https://username.itch.io" },
+#     { keybase = "https://keybase.io/username" },
+#     { keyoxide = "https://keyoxide.org/URI" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+#     { matrix = "https://matrix.to/#/URI" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { signal = "https://signal.me/#eu/userid" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { spotify = "https://open.spotify.com/user/userid" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitter = "https://twitter.com/username" },
+#     { x-twitter = "https://twitter.com/username" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+#     { codeberg = "https://codeberg.org/username"},
+  ]

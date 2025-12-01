@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Hugo template
+# Hugo
+public/
+[eE]xampleSite/
+[tT]hemes/
+
+# Other
+.hugo_build.lock
